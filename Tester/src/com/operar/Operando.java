@@ -39,7 +39,7 @@ public class Operando {
 	
 	public double Dividir2(double unm1 , double num2){
 		
-		
+		 
 		
 		return unm1 / num2; 
 		
