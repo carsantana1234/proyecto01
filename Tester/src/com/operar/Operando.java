@@ -55,7 +55,13 @@ public class Operando {
 		
 	}
 
-
+	public double Dividir4(double unm1 , double num2){
+		
+		 
+		
+		return unm1 / num2; 
+		
+	}
 
 
 }
