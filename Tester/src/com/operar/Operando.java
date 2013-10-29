@@ -33,7 +33,7 @@ public class Operando {
 		
 		
 		
-		return unm1 / num2;
+		return unm1 / num2; 
 		
 	}
 
