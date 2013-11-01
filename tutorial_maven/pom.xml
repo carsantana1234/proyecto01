@@ -17,6 +17,6 @@
   </dependencies>
   <modules>
     <module>tutorial_maven_jar</module>
-    <module>tutorial_maven_webapp</module>
+    <module>tutorial_maven_webapp</module> 
   </modules>
 </project>
